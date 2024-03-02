@@ -264,9 +264,7 @@ $
 ```
 
 ## Authors & Copyrights
-
-* Luis chaparro <[luischaparroc](https://github.com/luischaparroc)>
-* Edward Ortiz <[edward0rtiz](https://github.com/edward0rtiz)>
+* Pato omollo)>
 
 ## More information
 
